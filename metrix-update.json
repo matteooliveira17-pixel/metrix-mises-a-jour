@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "1.7",
-  "file": "Metrix-mise-a-jour-1.7.cmd",
-  "windows": "Metrix-mise-a-jour-1.7.zip",
-  "notes": "Nouveaux outils : Cercle (par le diamètre) et Arc (3 points).",
+  "version": "1.8",
+  "file": "Metrix-mise-a-jour-1.8.cmd",
+  "windows": "Metrix-mise-a-jour-1.8.zip",
+  "notes": "Écran de chargement au lancement.",
   "date": "2026-11-17"
 }
