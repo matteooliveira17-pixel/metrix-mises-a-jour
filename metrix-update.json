@@ -1,7 +1,7 @@
 {
   "app": "Métrix",
-  "version": "1.1",
-  "file": "Metrix-mise-a-jour-1.1.cmd",
-  "notes": "Améliorations et corrections.",
+  "version": "1.2",
+  "file": "Metrix-mise-a-jour-1.2.cmd",
+  "notes": "Recherche des mises à jour par internet, nouvelles icônes et ruban Accueil réorganisé.",
   "date": "2026-11-17"
 }
