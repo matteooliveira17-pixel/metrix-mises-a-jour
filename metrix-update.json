@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "1.8",
-  "file": "Metrix-mise-a-jour-1.8.cmd",
-  "windows": "Metrix-mise-a-jour-1.8.zip",
-  "notes": "Écran de chargement au lancement.",
+  "version": "1.9",
+  "file": "Metrix-mise-a-jour-1.9.cmd",
+  "windows": "Metrix-mise-a-jour-1.9.zip",
+  "notes": "Plus d'écran blanc à l'ouverture ; écran de chargement simplifié.",
   "date": "2026-11-17"
 }
