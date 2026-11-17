@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "2.7",
-  "file": "Metrix-mise-a-jour-2.7.cmd",
-  "windows": "Metrix-mise-a-jour-2.7.zip",
-  "notes": "Ruban personnalisable : choisissez les boutons affichés dans chaque groupe.",
+  "version": "2.8",
+  "file": "Metrix-mise-a-jour-2.8.cmd",
+  "windows": "Metrix-mise-a-jour-2.8.zip",
+  "notes": "Flèches des groupes du ruban plus discrètes.",
   "date": "2026-11-18"
 }
