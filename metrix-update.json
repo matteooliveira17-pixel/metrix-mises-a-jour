@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "2.6",
-  "file": "Metrix-mise-a-jour-2.6.cmd",
-  "windows": "Metrix-mise-a-jour-2.6.zip",
-  "notes": "Reconnaissance automatique de l'échelle écrite sur le plan.",
-  "date": "2026-11-17"
+  "version": "2.7",
+  "file": "Metrix-mise-a-jour-2.7.cmd",
+  "windows": "Metrix-mise-a-jour-2.7.zip",
+  "notes": "Ruban personnalisable : choisissez les boutons affichés dans chaque groupe.",
+  "date": "2026-11-18"
 }
