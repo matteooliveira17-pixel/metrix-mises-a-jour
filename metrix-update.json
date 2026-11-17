@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "2.4",
-  "file": "Metrix-mise-a-jour-2.4.cmd",
-  "windows": "Metrix-mise-a-jour-2.4.zip",
-  "notes": "Plans récents : sans plan ouvert, rouvrez vos derniers plans en un clic.",
+  "version": "2.5",
+  "file": "Metrix-mise-a-jour-2.5.cmd",
+  "windows": "Metrix-mise-a-jour-2.5.zip",
+  "notes": "Nouvelles icônes des Paramètres.",
   "date": "2026-11-17"
 }
