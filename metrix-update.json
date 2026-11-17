@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "2.8",
-  "file": "Metrix-mise-a-jour-2.8.cmd",
-  "windows": "Metrix-mise-a-jour-2.8.zip",
-  "notes": "Flèches des groupes du ruban plus discrètes.",
+  "version": "2.9",
+  "file": "Metrix-mise-a-jour-2.9.cmd",
+  "windows": "Metrix-mise-a-jour-2.9.zip",
+  "notes": "6 nouvelles langues : allemand, néerlandais, chinois, arabe, italien, russe.",
   "date": "2026-11-18"
 }
