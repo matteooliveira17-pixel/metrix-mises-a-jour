@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "2.5",
-  "file": "Metrix-mise-a-jour-2.5.cmd",
-  "windows": "Metrix-mise-a-jour-2.5.zip",
-  "notes": "Nouvelles icônes des Paramètres.",
+  "version": "2.6",
+  "file": "Metrix-mise-a-jour-2.6.cmd",
+  "windows": "Metrix-mise-a-jour-2.6.zip",
+  "notes": "Reconnaissance automatique de l'échelle écrite sur le plan.",
   "date": "2026-11-17"
 }
