@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "2.2",
-  "file": "Metrix-mise-a-jour-2.2.cmd",
-  "windows": "Metrix-mise-a-jour-2.2.zip",
-  "notes": "Écran de chargement animé : l'anneau tourne autour du M.",
+  "version": "2.3",
+  "file": "Metrix-mise-a-jour-2.3.cmd",
+  "windows": "Metrix-mise-a-jour-2.3.zip",
+  "notes": "Nouvelle icône des Paramètres.",
   "date": "2026-11-17"
 }
