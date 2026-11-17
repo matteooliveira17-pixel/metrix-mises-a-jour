@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "2.9",
-  "file": "Metrix-mise-a-jour-2.9.cmd",
-  "windows": "Metrix-mise-a-jour-2.9.zip",
-  "notes": "6 nouvelles langues : allemand, néerlandais, chinois, arabe, italien, russe.",
+  "version": "3.0",
+  "file": "Metrix-mise-a-jour-3.0.cmd",
+  "windows": "Metrix-mise-a-jour-3.0.zip",
+  "notes": "Option pour masquer les micro-flèches du ruban (Paramètres → Apparence).",
   "date": "2026-11-18"
 }
