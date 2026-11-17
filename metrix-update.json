@@ -1,7 +1,8 @@
 {
   "app": "Métrix",
-  "version": "1.3",
-  "file": "Metrix-mise-a-jour-1.3.cmd",
-  "notes": "Onglet Paramètres réorganisé avec une barre latérale, comme le Finder.",
+  "version": "1.4",
+  "file": "Metrix-mise-a-jour-1.4.cmd",
+  "windows": "Metrix-mise-a-jour-1.4.zip",
+  "notes": "Mise à jour Windows plus fiable (zip), recherche du dossier Metrix améliorée.",
   "date": "2026-11-17"
 }
