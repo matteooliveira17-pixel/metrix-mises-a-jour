@@ -1,7 +1,7 @@
 {
   "app": "Métrix",
-  "version": "1.2",
-  "file": "Metrix-mise-a-jour-1.2.cmd",
-  "notes": "Recherche des mises à jour par internet, nouvelles icônes et ruban Accueil réorganisé.",
+  "version": "1.3",
+  "file": "Metrix-mise-a-jour-1.3.cmd",
+  "notes": "Onglet Paramètres réorganisé avec une barre latérale, comme le Finder.",
   "date": "2026-11-17"
 }
