@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "1.5",
-  "file": "Metrix-mise-a-jour-1.5.cmd",
-  "windows": "Metrix-mise-a-jour-1.5.zip",
-  "notes": "Flèches Précédent / Suivant à côté de Paramètres.",
+  "version": "1.6",
+  "file": "Metrix-mise-a-jour-1.6.cmd",
+  "windows": "Metrix-mise-a-jour-1.6.zip",
+  "notes": "Version iPhone / iPad : gestes tactiles et disposition adaptée aux petits écrans.",
   "date": "2026-11-17"
 }
