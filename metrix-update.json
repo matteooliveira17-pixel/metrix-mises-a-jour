@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "1.4",
-  "file": "Metrix-mise-a-jour-1.4.cmd",
-  "windows": "Metrix-mise-a-jour-1.4.zip",
-  "notes": "Mise à jour Windows plus fiable (zip), recherche du dossier Metrix améliorée.",
+  "version": "1.5",
+  "file": "Metrix-mise-a-jour-1.5.cmd",
+  "windows": "Metrix-mise-a-jour-1.5.zip",
+  "notes": "Flèches Précédent / Suivant à côté de Paramètres.",
   "date": "2026-11-17"
 }
