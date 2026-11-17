@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "2.1",
-  "file": "Metrix-mise-a-jour-2.1.cmd",
-  "windows": "Metrix-mise-a-jour-2.1.zip",
-  "notes": "Annuler / Rétablir comme dans Word, pour les métrés et les ouvrages.",
+  "version": "2.2",
+  "file": "Metrix-mise-a-jour-2.2.cmd",
+  "windows": "Metrix-mise-a-jour-2.2.zip",
+  "notes": "Écran de chargement animé : l'anneau tourne autour du M.",
   "date": "2026-11-17"
 }
