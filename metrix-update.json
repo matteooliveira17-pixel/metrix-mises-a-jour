@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.0",
-  "file": "Metrix-mise-a-jour-3.0.cmd",
-  "windows": "Metrix-mise-a-jour-3.0.zip",
-  "notes": "Option pour masquer les micro-flèches du ruban (Paramètres → Apparence).",
+  "version": "3.1",
+  "file": "Metrix-mise-a-jour-3.1.cmd",
+  "windows": "Metrix-mise-a-jour-3.1.zip",
+  "notes": "Guide illustré inclus ; liste des raccourcis à jour (Cercle, Arc, Annuler, Rétablir).",
   "date": "2026-11-18"
 }
