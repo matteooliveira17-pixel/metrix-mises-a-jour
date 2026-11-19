@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.8",
-  "file": "Metrix-mise-a-jour-3.8.cmd",
-  "windows": "Metrix-mise-a-jour-3.8.zip",
-  "notes": "Revit / IFC : vue 3D de la maquette (tourner, zoomer, vues, niveaux, sélection au clic).",
+  "version": "3.9",
+  "file": "Metrix-mise-a-jour-3.9.cmd",
+  "windows": "Metrix-mise-a-jour-3.9.zip",
+  "notes": "Revit / IFC : export Excel de tous les métrés de la maquette (récapitulatif, par niveau, éléments). Sur Mac, réinstallez l'appli complète pour l'export Excel.",
   "date": "2026-11-19"
 }
