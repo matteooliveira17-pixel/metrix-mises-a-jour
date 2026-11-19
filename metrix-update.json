@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.3",
-  "file": "Metrix-mise-a-jour-3.3.cmd",
-  "windows": "Metrix-mise-a-jour-3.3.zip",
-  "notes": "Nouvel onglet Temps unitaires : temps du service méthodes, calcul des heures et formule Excel à copier.",
-  "date": "2026-11-18"
+  "version": "3.4",
+  "file": "Metrix-mise-a-jour-3.4.cmd",
+  "windows": "Metrix-mise-a-jour-3.4.zip",
+  "notes": "Nouvel onglet Revit / IFC : métrés d'une maquette Revit exportée en IFC, par catégorie et désignation.",
+  "date": "2026-11-19"
 }
