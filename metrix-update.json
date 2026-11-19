@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.13",
-  "file": "Metrix-mise-a-jour-3.13.cmd",
-  "windows": "Metrix-mise-a-jour-3.13.zip",
-  "notes": "Onglet Revit / IFC : grand cadre « Cliquez ici » pour ouvrir une maquette quand aucune n'est ouverte.",
+  "version": "3.14",
+  "file": "Metrix-mise-a-jour-3.14.cmd",
+  "windows": "Metrix-mise-a-jour-3.14.zip",
+  "notes": "Onglet Revit / IFC : le cadre « Cliquez ici » ouvre aussi les fichiers Revit (.rvt), convertis automatiquement.",
   "date": "2026-11-19"
 }
