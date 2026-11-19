@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.15",
-  "file": "Metrix-mise-a-jour-3.15.cmd",
-  "windows": "Metrix-mise-a-jour-3.15.zip",
-  "notes": "Écran de chargement : anneau du logo plus réaliste (bande en perspective, reflet qui tourne).",
+  "version": "3.16",
+  "file": "Metrix-mise-a-jour-3.16.cmd",
+  "windows": "Metrix-mise-a-jour-3.16.zip",
+  "notes": "Lancement plus fluide : l'écran de chargement ne se fige plus (vérification des mises à jour faite juste après).",
   "date": "2026-11-19"
 }
