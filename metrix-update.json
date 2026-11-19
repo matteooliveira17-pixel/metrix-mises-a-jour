@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.9",
-  "file": "Metrix-mise-a-jour-3.9.cmd",
-  "windows": "Metrix-mise-a-jour-3.9.zip",
-  "notes": "Revit / IFC : export Excel de tous les métrés de la maquette (récapitulatif, par niveau, éléments). Sur Mac, réinstallez l'appli complète pour l'export Excel.",
+  "version": "3.10",
+  "file": "Metrix-mise-a-jour-3.10.cmd",
+  "windows": "Metrix-mise-a-jour-3.10.zip",
+  "notes": "Mises à jour automatiques : Métrix se met à jour tout seul à chaque lancement, sans rien faire.",
   "date": "2026-11-19"
 }
