@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.4",
-  "file": "Metrix-mise-a-jour-3.4.cmd",
-  "windows": "Metrix-mise-a-jour-3.4.zip",
-  "notes": "Nouvel onglet Revit / IFC : métrés d'une maquette Revit exportée en IFC, par catégorie et désignation.",
+  "version": "3.5",
+  "file": "Metrix-mise-a-jour-3.5.cmd",
+  "windows": "Metrix-mise-a-jour-3.5.zip",
+  "notes": "Revit / IFC : vue en plan de la maquette, niveau par niveau, avec la désignation choisie en couleur.",
   "date": "2026-11-19"
 }
