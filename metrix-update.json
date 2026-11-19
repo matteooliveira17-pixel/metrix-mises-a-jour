@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.17",
-  "file": "Metrix-mise-a-jour-3.17.cmd",
-  "windows": "Metrix-mise-a-jour-3.17.zip",
-  "notes": "Revit / IFC : choix des métrés à exporter vers Excel (cases à cocher au moment de l'export).",
+  "version": "3.18",
+  "file": "Metrix-mise-a-jour-3.18.cmd",
+  "windows": "Metrix-mise-a-jour-3.18.zip",
+  "notes": "Revit / IFC : tableau longueur × largeur des éléments (aussi dans Excel) ; à l'export, les cases sont décochées au départ.",
   "date": "2026-11-19"
 }
