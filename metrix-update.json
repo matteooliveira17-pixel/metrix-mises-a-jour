@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.5",
-  "file": "Metrix-mise-a-jour-3.5.cmd",
-  "windows": "Metrix-mise-a-jour-3.5.zip",
-  "notes": "Revit / IFC : vue en plan de la maquette, niveau par niveau, avec la désignation choisie en couleur.",
+  "version": "3.6",
+  "file": "Metrix-mise-a-jour-3.6.cmd",
+  "windows": "Metrix-mise-a-jour-3.6.zip",
+  "notes": "Import Revit (.rvt) avec le convertisseur DDC installé sur l'ordinateur, et comparaison de deux IFC. Sur Mac, réinstallez l'appli complète pour la conversion Revit.",
   "date": "2026-11-19"
 }
