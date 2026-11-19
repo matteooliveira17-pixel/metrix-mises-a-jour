@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.16",
-  "file": "Metrix-mise-a-jour-3.16.cmd",
-  "windows": "Metrix-mise-a-jour-3.16.zip",
-  "notes": "Lancement plus fluide : l'écran de chargement ne se fige plus (vérification des mises à jour faite juste après).",
+  "version": "3.17",
+  "file": "Metrix-mise-a-jour-3.17.cmd",
+  "windows": "Metrix-mise-a-jour-3.17.zip",
+  "notes": "Revit / IFC : choix des métrés à exporter vers Excel (cases à cocher au moment de l'export).",
   "date": "2026-11-19"
 }
