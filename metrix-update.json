@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.11",
-  "file": "Metrix-mise-a-jour-3.11.cmd",
-  "windows": "Metrix-mise-a-jour-3.11.zip",
-  "notes": "Onglet Revit / IFC : zone « Fichiers récents » (rouvrir une maquette d'un clic) et bouton « Fermer » pour la maquette en cours.",
+  "version": "3.12",
+  "file": "Metrix-mise-a-jour-3.12.cmd",
+  "windows": "Metrix-mise-a-jour-3.12.zip",
+  "notes": "Vue 3D : les maquettes s'affichent avec les couleurs des matériaux de Revit (bouton « Couleurs Revit »).",
   "date": "2026-11-19"
 }
