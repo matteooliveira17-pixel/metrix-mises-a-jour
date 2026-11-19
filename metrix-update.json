@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.12",
-  "file": "Metrix-mise-a-jour-3.12.cmd",
-  "windows": "Metrix-mise-a-jour-3.12.zip",
-  "notes": "Vue 3D : les maquettes s'affichent avec les couleurs des matériaux de Revit (bouton « Couleurs Revit »).",
+  "version": "3.13",
+  "file": "Metrix-mise-a-jour-3.13.cmd",
+  "windows": "Metrix-mise-a-jour-3.13.zip",
+  "notes": "Onglet Revit / IFC : grand cadre « Cliquez ici » pour ouvrir une maquette quand aucune n'est ouverte.",
   "date": "2026-11-19"
 }
