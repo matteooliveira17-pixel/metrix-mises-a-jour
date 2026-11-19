@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.7",
-  "file": "Metrix-mise-a-jour-3.7.cmd",
-  "windows": "Metrix-mise-a-jour-3.7.zip",
-  "notes": "Revit / IFC : vue en plan façon plan d'architecte (murs hachurés, portes avec ouverture, fenêtres, noms des pièces, échelle).",
+  "version": "3.8",
+  "file": "Metrix-mise-a-jour-3.8.cmd",
+  "windows": "Metrix-mise-a-jour-3.8.zip",
+  "notes": "Revit / IFC : vue 3D de la maquette (tourner, zoomer, vues, niveaux, sélection au clic).",
   "date": "2026-11-19"
 }
