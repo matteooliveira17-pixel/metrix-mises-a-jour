@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.6",
-  "file": "Metrix-mise-a-jour-3.6.cmd",
-  "windows": "Metrix-mise-a-jour-3.6.zip",
-  "notes": "Import Revit (.rvt) avec le convertisseur DDC installé sur l'ordinateur, et comparaison de deux IFC. Sur Mac, réinstallez l'appli complète pour la conversion Revit.",
+  "version": "3.7",
+  "file": "Metrix-mise-a-jour-3.7.cmd",
+  "windows": "Metrix-mise-a-jour-3.7.zip",
+  "notes": "Revit / IFC : vue en plan façon plan d'architecte (murs hachurés, portes avec ouverture, fenêtres, noms des pièces, échelle).",
   "date": "2026-11-19"
 }
