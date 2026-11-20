@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.24",
-  "file": "Metrix-mise-a-jour-3.24.cmd",
-  "windows": "Metrix-mise-a-jour-3.24.zip",
-  "notes": "Ruban réorganisé pour gagner de la place : outils secondaires en petits boutons empilés (Rectangle, Cercle, Arc, Main levée, Compteur, vides, Dessin, Texte, zoom, Charger, Export Excel).",
+  "version": "3.25",
+  "file": "Metrix-mise-a-jour-3.25.cmd",
+  "windows": "Metrix-mise-a-jour-3.25.zip",
+  "notes": "Groupe Affichage du ruban remis comme avant (Ajuster à la fenêtre, Zoom avant, Zoom arrière, Taille normale).",
   "date": "2026-11-20"
 }
