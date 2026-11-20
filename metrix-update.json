@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.19",
-  "file": "Metrix-mise-a-jour-3.19.cmd",
-  "windows": "Metrix-mise-a-jour-3.19.zip",
-  "notes": "Nouvel écran d'ouverture : créer un projet avec plusieurs PDF, ouvrir un projet (.metrix) d'un autre ordinateur, ou utiliser Métrix sans projet. Les PDF sont rangés dans le fichier du projet à l'enregistrement (Ctrl+S).",
+  "version": "3.20",
+  "file": "Metrix-mise-a-jour-3.20.cmd",
+  "windows": "Metrix-mise-a-jour-3.20.zip",
+  "notes": "Créer un projet : on choisit d'abord où enregistrer le fichier .metrix, puis il est réenregistré au même endroit (Ctrl+S). Nouveaux boutons « Plans du projet » et « Fermer le projet » (enregistre puis revient à l'accueil).",
   "date": "2026-11-20"
 }
