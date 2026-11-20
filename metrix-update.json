@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.30",
-  "file": "Metrix-mise-a-jour-3.30.cmd",
-  "windows": "Metrix-mise-a-jour-3.30.zip",
-  "notes": "Ruban : Mode opératoire (Symboles) et Métré intelligent (Assistant IA) déplacés tout à droite.",
+  "version": "3.31",
+  "file": "Metrix-mise-a-jour-3.31.cmd",
+  "windows": "Metrix-mise-a-jour-3.31.zip",
+  "notes": "Ruban : Symboles remis entre Annoter et Affichage ; boutons centrés sous le nom de chaque groupe ; Assistant IA tout à droite.",
   "date": "2026-11-20"
 }
