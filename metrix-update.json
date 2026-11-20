@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.26",
-  "file": "Metrix-mise-a-jour-3.26.cmd",
-  "windows": "Metrix-mise-a-jour-3.26.zip",
-  "notes": "Ruban : les petits boutons empilés sont répartis sur toute la hauteur, au même niveau que les autres.",
+  "version": "3.27",
+  "file": "Metrix-mise-a-jour-3.27.cmd",
+  "windows": "Metrix-mise-a-jour-3.27.zip",
+  "notes": "Ruban : petits boutons remis comme avant ; grands boutons Enregistrer, Ajuster à la fenêtre et Symboles centrés en hauteur.",
   "date": "2026-11-20"
 }
