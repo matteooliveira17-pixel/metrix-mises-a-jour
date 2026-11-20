@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.28",
-  "file": "Metrix-mise-a-jour-3.28.cmd",
-  "windows": "Metrix-mise-a-jour-3.28.zip",
-  "notes": "Enregistrer en PDF : le plan avec ses métrés, annotations et symboles, page par page (Enregistrer → Plan en PDF, ou Fichier → Enregistrer le plan en PDF).",
+  "version": "3.29",
+  "file": "Metrix-mise-a-jour-3.29.cmd",
+  "windows": "Metrix-mise-a-jour-3.29.zip",
+  "notes": "Nouveau : Métré intelligent. Un assistant IA (Claude) pose quelques questions puis trace les surfaces, longueurs et comptages sur le plan. Nécessite votre propre clé API Claude.",
   "date": "2026-11-20"
 }
