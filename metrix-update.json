@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.18",
-  "file": "Metrix-mise-a-jour-3.18.cmd",
-  "windows": "Metrix-mise-a-jour-3.18.zip",
-  "notes": "Revit / IFC : tableau longueur × largeur des éléments (aussi dans Excel) ; à l'export, les cases sont décochées au départ.",
-  "date": "2026-11-19"
+  "version": "3.19",
+  "file": "Metrix-mise-a-jour-3.19.cmd",
+  "windows": "Metrix-mise-a-jour-3.19.zip",
+  "notes": "Nouvel écran d'ouverture : créer un projet avec plusieurs PDF, ouvrir un projet (.metrix) d'un autre ordinateur, ou utiliser Métrix sans projet. Les PDF sont rangés dans le fichier du projet à l'enregistrement (Ctrl+S).",
+  "date": "2026-11-20"
 }
