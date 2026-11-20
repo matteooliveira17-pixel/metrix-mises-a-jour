@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.29",
-  "file": "Metrix-mise-a-jour-3.29.cmd",
-  "windows": "Metrix-mise-a-jour-3.29.zip",
-  "notes": "Nouveau : Métré intelligent. Un assistant IA (Claude) pose quelques questions puis trace les surfaces, longueurs et comptages sur le plan. Nécessite votre propre clé API Claude.",
+  "version": "3.30",
+  "file": "Metrix-mise-a-jour-3.30.cmd",
+  "windows": "Metrix-mise-a-jour-3.30.zip",
+  "notes": "Ruban : Mode opératoire (Symboles) et Métré intelligent (Assistant IA) déplacés tout à droite.",
   "date": "2026-11-20"
 }
