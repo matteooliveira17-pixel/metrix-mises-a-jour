@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.23",
-  "file": "Metrix-mise-a-jour-3.23.cmd",
-  "windows": "Metrix-mise-a-jour-3.23.zip",
-  "notes": "Symboles du mode opératoire : taille par défaut fixe (indépendante de l'échelle), à ajuster à la souris avec les poignées des coins ; poignée ronde pour tourner, comme une image dans Word.",
+  "version": "3.24",
+  "file": "Metrix-mise-a-jour-3.24.cmd",
+  "windows": "Metrix-mise-a-jour-3.24.zip",
+  "notes": "Ruban réorganisé pour gagner de la place : outils secondaires en petits boutons empilés (Rectangle, Cercle, Arc, Main levée, Compteur, vides, Dessin, Texte, zoom, Charger, Export Excel).",
   "date": "2026-11-20"
 }
