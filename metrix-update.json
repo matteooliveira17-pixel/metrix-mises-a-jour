@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.25",
-  "file": "Metrix-mise-a-jour-3.25.cmd",
-  "windows": "Metrix-mise-a-jour-3.25.zip",
-  "notes": "Groupe Affichage du ruban remis comme avant (Ajuster à la fenêtre, Zoom avant, Zoom arrière, Taille normale).",
+  "version": "3.26",
+  "file": "Metrix-mise-a-jour-3.26.cmd",
+  "windows": "Metrix-mise-a-jour-3.26.zip",
+  "notes": "Ruban : les petits boutons empilés sont répartis sur toute la hauteur, au même niveau que les autres.",
   "date": "2026-11-20"
 }
