@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.22",
-  "file": "Metrix-mise-a-jour-3.22.cmd",
-  "windows": "Metrix-mise-a-jour-3.22.zip",
-  "notes": "Nouveau groupe « Mode opératoire » : 50 symboles de chantier (grues, manitous, chariots, échafaudages, nacelles, engins, installations, sécurité) à poser sur le plan, à la taille réelle, avec rayon d'action des grues.",
+  "version": "3.23",
+  "file": "Metrix-mise-a-jour-3.23.cmd",
+  "windows": "Metrix-mise-a-jour-3.23.zip",
+  "notes": "Symboles du mode opératoire : taille par défaut fixe (indépendante de l'échelle), à ajuster à la souris avec les poignées des coins ; poignée ronde pour tourner, comme une image dans Word.",
   "date": "2026-11-20"
 }
