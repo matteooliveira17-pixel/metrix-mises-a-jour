@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.20",
-  "file": "Metrix-mise-a-jour-3.20.cmd",
-  "windows": "Metrix-mise-a-jour-3.20.zip",
-  "notes": "Créer un projet : on choisit d'abord où enregistrer le fichier .metrix, puis il est réenregistré au même endroit (Ctrl+S). Nouveaux boutons « Plans du projet » et « Fermer le projet » (enregistre puis revient à l'accueil).",
+  "version": "3.21",
+  "file": "Metrix-mise-a-jour-3.21.cmd",
+  "windows": "Metrix-mise-a-jour-3.21.zip",
+  "notes": "En projet, la barre d'onglets est masquée : on passe d'un plan à l'autre avec « Plans du projet », où l'on peut aussi retirer un plan.",
   "date": "2026-11-20"
 }
