@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.21",
-  "file": "Metrix-mise-a-jour-3.21.cmd",
-  "windows": "Metrix-mise-a-jour-3.21.zip",
-  "notes": "En projet, la barre d'onglets est masquée : on passe d'un plan à l'autre avec « Plans du projet », où l'on peut aussi retirer un plan.",
+  "version": "3.22",
+  "file": "Metrix-mise-a-jour-3.22.cmd",
+  "windows": "Metrix-mise-a-jour-3.22.zip",
+  "notes": "Nouveau groupe « Mode opératoire » : 50 symboles de chantier (grues, manitous, chariots, échafaudages, nacelles, engins, installations, sécurité) à poser sur le plan, à la taille réelle, avec rayon d'action des grues.",
   "date": "2026-11-20"
 }
