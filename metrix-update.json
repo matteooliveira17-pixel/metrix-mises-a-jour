@@ -1,8 +1,8 @@
 {
   "app": "Métrix",
-  "version": "3.31",
-  "file": "Metrix-mise-a-jour-3.31.cmd",
-  "windows": "Metrix-mise-a-jour-3.31.zip",
-  "notes": "Ruban : Symboles remis entre Annoter et Affichage ; boutons centrés sous le nom de chaque groupe ; Assistant IA tout à droite.",
+  "version": "3.32",
+  "file": "Metrix-mise-a-jour-3.32.cmd",
+  "windows": "Metrix-mise-a-jour-3.32.zip",
+  "notes": "Ruban : Symboles, Dessin et Texte réunis dans le groupe Annoter.",
   "date": "2026-11-20"
 }
